@@ -1,0 +1,9 @@
+.bundle
+.livereload
+.rvmrc
+.DS_Store
+db/*.sqlite3
+log/*.log
+tmp/**/*
+/public/javascripts/compiled
+/spec/javascripts/compiled

@@ -1,0 +1,14 @@
+javascripts:
+  all:
+    - public/javascripts/vendor/jquery.js
+    - public/javascripts/vendor/underscore.js
+    - public/javascripts/vendor/backbone.js
+    - public/javascripts/vendor/handlebars.js
+    - public/javascripts/compiled/application.js
+    - public/javascripts/compiled/views/helpers.js
+    - public/javascripts/compiled/models/*.js
+    - public/javascripts/compiled/views/*.js
+
+stylesheets:
+  all:
+    - public/stylesheets/todos.css
